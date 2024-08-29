@@ -1,0 +1,12 @@
+# Terraform directories
+.terraform/
+
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform plan files
+*.tfplan
+
+# Terraform lock file (optional, but generally recommended to include for consistency)
+.terraform.lock.hcl
